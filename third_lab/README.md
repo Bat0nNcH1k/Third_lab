@@ -22,13 +22,13 @@ SQL запросы:
 
 1) На маленьких данных:
 
-![image](/Users/egorbataev/Desktop/Снимок экрана 2023-12-18 в 02.05.54.png)
-![image](/Users/egorbataev/Desktop/Снимок экрана 2023-12-18 в 02.06.59.png)
+![image](pic3.png)
+![image](pic4.png)
 
 2) На больших данных:
 
-![image](/Users/egorbataev/Desktop/Снимок экрана 2023-12-18 в 02.03.40.png)
-![image](/Users/egorbataev/Desktop/Снимок экрана 2023-12-18 в 02.02.28.png)
+![image](pic2.png)
+![image](pic1.png)
 
 
 Анализирование графиков:
